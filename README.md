@@ -12,7 +12,6 @@
 </header>
 
 <img src="https://github.com/Ludishchev/ludishchev.github.io/blob/main/profilepic.jpg" alt="profilepic" class="profile-photo">
-
 <div class="container">
   <section>
     <h2>Summary</h2>
