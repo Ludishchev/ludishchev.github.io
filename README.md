@@ -74,7 +74,7 @@
       <li>HTML Certificate, Sololearn</li>
       <p>Obtained certification in HTML from Sololearn, showcasing proficiency in HTML coding and web development</p>
       <li>CSS Certificate, Sololearn</li>
-      <p>Obtained certification in HTML from Sololearn, showcasing proficiency in HTML coding and web development</p>
+      <p>Obtained certification in CSS from Sololearn, demonstrating knowledge and skills in CSS styling and design</p>
     </ul>
   </section>
   <section>
