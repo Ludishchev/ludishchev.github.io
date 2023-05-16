@@ -11,7 +11,7 @@
   Hi! I am Paul Ludishchev
 </header>
 
-<img src="[assets/profilepic.jpg](https://github.com/Ludishchev/ludishchev.github.io/blob/main/profilepic.jpg)" alt="profilepic" class="profile-photo">
+<img src="https://github.com/Ludishchev/ludishchev.github.io/blob/main/profilepic.jpg" alt="profilepic" class="profile-photo">
 
 <div class="container">
   <section>
