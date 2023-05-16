@@ -11,7 +11,8 @@
   Hi! I am Paul Ludishchev
 </header>
 
-<img src="profilepic.jpg" alt="profilepic" class="profile-photo">
+<img src="https://github.com/Ludishchev/ludishchev.github.io/blob/main/profilepic.jpg" alt="profilepic" class="profile-photo">
+
 <div class="container">
   <section>
     <h2>Summary</h2>
@@ -74,7 +75,7 @@
       <li>HTML Certificate, Sololearn</li>
       <p>Obtained certification in HTML from Sololearn, showcasing proficiency in HTML coding and web development</p>
       <li>CSS Certificate, Sololearn</li>
-      <p>Obtained certification in CSS from Sololearn, demonstrating knowledge and skills in CSS styling and design</p>
+      <p>Obtained certification in CSS from Sololearn, demonstrating knowledge and skills in CSS styling and design.</p>
     </ul>
   </section>
   <section>
@@ -89,4 +90,5 @@
 </div>
 </body>
 </html>
+
 
