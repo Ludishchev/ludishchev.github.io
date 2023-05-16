@@ -81,7 +81,7 @@
   <section>
     <h2>Contacts</h2>
    <a href="https://t.me/dead_into_box"><img src="favpng_clip-art-telegram.png" alt="tg" class="img-button"></a>
-    <a href="malito:ludishev.p@gmail.com"><img src="favpng_icon-email-clip-art.png" alt="gmail" class="img-button"></a>
+    <a href="mailto:ludishev.p@gmail.com"><img src="favpng_icon-email-clip-art.png" alt="gmail" class="img-button"></a>
     <p>Location: India</p>
   </section>
 </div>
