@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <link href="style.css" rel="stylesheet">
+  <link rel="icon" type="image/png" href="favicon.png" sizes="32x32">
   <title>Paul Ludishchev - CV</title>
 </head>
 <body>
