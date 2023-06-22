@@ -32,11 +32,11 @@
       </thead>
       <tbody>
       <tr>
-        <td>HTML (Expert)</td>
+        <td>HTML</td>
         <td>Teamwork</td>
       </tr>
       <tr>
-        <td>CSS (Intermediate)</td>
+        <td>CSS</td>
         <td>Creativity</td>
       </tr>
       <tr>
