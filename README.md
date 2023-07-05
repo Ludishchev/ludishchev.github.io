@@ -37,7 +37,7 @@
       </tr>
       <tr>
         <td>CSS</td>
-        <td>Creativity</td>
+        <td>Creative mindset</td>
       </tr>
       <tr>
         <td>REST API</td>
@@ -46,10 +46,6 @@
       <tr>
         <td></td>
         <td>Ability to negotiate</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>Creative mindset</td>
       </tr>
       <tr>
         <td></td>
@@ -91,7 +87,7 @@
    <a href="https://t.me/dead_into_box"><img src="favpng_clip-art-telegram.png" alt="tg" class="img-button"></a>
     <a href="mailto:ludishev.p@gmail.com"><img src="favpng_icon-email-clip-art.png" alt="gmail" class="img-button"></a>
     <a href="https://www.linkedin.com/in/lud1shchev/>"><img src="linkedin.png" alt="linkedin" class="img-button"></a>
-    <p>Location: India</p>
+    <p>Location: India, Himachal Pradesh; Thailand, Chiang Mai</p>
   </section>
 </div>
 </body>
