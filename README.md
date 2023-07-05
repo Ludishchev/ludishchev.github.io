@@ -9,7 +9,7 @@
 </head>
 <body>
 <header>
-  Hi! I am Paul Ludishchev
+  Hi! I am Pavel Ludishchev
 </header>
 
 <img src="profilepic.jpg" alt="profilepic" class="profile-photo">
