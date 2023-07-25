@@ -44,7 +44,7 @@
         <td>Result oriented</td>
       </tr>
       <tr>
-        <td></td>
+        <td>SQL</td>
         <td>Ability to negotiate</td>
       </tr>
       <tr>
@@ -64,10 +64,10 @@
   <section>
     <h2>Education</h2>
     <ul>
-      <li>HTML Certificate, Sololearn</li>
-      <p>Obtained certification in HTML from Sololearn, showcasing proficiency in HTML coding and web development</p>
-      <li>CSS Certificate, Sololearn</li>
-      <p>Obtained certification in CSS from Sololearn, demonstrating knowledge and skills in CSS styling and design.</p>
+      <li>Introduction to HTML, Sololearn</li>
+      <li>Introduction to CSS, Sololearn</li>
+      <li>REST API's Testing, Stepik</li>
+      <li>SQL Basics, Stepik</li>
     </ul>
   </section>
   <section>
@@ -76,8 +76,7 @@
       I believe my hobbies can be a valuable asset to my future employer. Here are a few examples:
     </p>
     <ul>
-
-      <li>I have a massive experience writing and producing music using Reaper, a digital audio workstation.<br> This hobby has given me valuable skills in problem-solving, attention to detail, and time management.</li><br>
+      <li>I have a massive experience writing and producing music using Reaper and Ableton Live, a digital audio workstations.<br> This hobby has given me valuable skills in problem-solving, attention to detail, and time management.</li><br>
       <li>Travelling has taught me how to adapt to new environments and cultures, communicate effectively with people from diverse backgrounds, and stay organized and focused while on the road.</li>
     </ul>
     </p>
