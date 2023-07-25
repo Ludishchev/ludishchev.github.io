@@ -76,7 +76,7 @@
       I believe my hobbies can be a valuable asset to my future employer. Here are a few examples:
     </p>
     <ul>
-      <li>I have a massive experience writing and producing music using Reaper and Ableton Live, a digital audio workstations.<br> This hobby has given me valuable skills in problem-solving, attention to detail, and time management.</li><br>
+      <li>I have a massive experience writing and producing music using Reaper and Ableton Live, a digital audio workstations. This hobby has given me valuable skills in problem-solving, attention to detail, and time management.</li><br>
       <li>Travelling has taught me how to adapt to new environments and cultures, communicate effectively with people from diverse backgrounds, and stay organized and focused while on the road.</li>
     </ul>
     </p>
