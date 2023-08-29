@@ -18,7 +18,7 @@
   <section>
     <h2>Summary</h2>
     <p>
-      A constant-learning developer, musician and a music producer with a passion for work and a strong skill set in HTML, CSS, and REST API. I have excellent communication skills and thrive in a team environment. My creativity and result-oriented approach allow me to find elegant solutions to complex problems.
+      A constant-learning UX/UI Designer developer, musician and a music producer with a passion for work and a strong skill set in HTML, CSS, and REST API. I have excellent communication skills and thrive in a team environment. My creativity and result-oriented approach allow me to find elegant solutions to complex problems.
     </p>
   </section>
   <section>
@@ -32,15 +32,15 @@
       </thead>
       <tbody>
       <tr>
-        <td>HTML</td>
-        <td>Teamwork</td>
+        <td>Figma</td>
+        <td>UX/UI Understanding</td>
       </tr>
       <tr>
-        <td>CSS</td>
+        <td>HTML</td>
         <td>Creative mindset</td>
       </tr>
       <tr>
-        <td>REST API</td>
+        <td>CSS</td>
         <td>Result oriented</td>
       </tr>
       <tr>
@@ -48,22 +48,23 @@
         <td>Ability to negotiate</td>
       </tr>
       <tr>
-        <td></td>
+        <td>REST API's</td>
         <td>English (B2-C1)</td>
       </tr>
       </tbody>
     </table>
   </section>
-   <section>
+  <section>
     <h2>Work Experience</h2>
     <ul>
       <li>JSC Tochka (Oct 2021 — May 2023)</li>
       <p>Customer support office</p>
     </ul>
-   </section>
+  </section>
   <section>
     <h2>Education</h2>
     <ul>
+      <li>UX/UI Design, "ITCode" company internship</li> 
       <li>Introduction to HTML, Sololearn</li>
       <li>Introduction to CSS, Sololearn</li>
       <li>REST API's Testing, Stepik</li>
@@ -83,7 +84,7 @@
   </section>
   <section>
     <h2>Contacts</h2>
-   <a href="https://t.me/dead_into_box"><img src="favpng_clip-art-telegram.png" alt="tg" class="img-button"></a>
+    <a href="https://t.me/dead_into_box"><img src="favpng_clip-art-telegram.png" alt="tg" class="img-button"></a>
     <a href="mailto:ludishev.p@gmail.com"><img src="favpng_icon-email-clip-art.png" alt="gmail" class="img-button"></a>
     <a href="https://www.linkedin.com/in/lud1shchev/>"><img src="linkedin.png" alt="linkedin" class="img-button"></a>
     <p>Location: India, Himachal Pradesh; Thailand, Chiang Mai</p>
@@ -91,5 +92,4 @@
 </div>
 </body>
 </html>
-
 
